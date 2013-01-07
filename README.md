@@ -29,6 +29,8 @@ To use Puppet Sandbox, you must have the following items installed and working:
 
 * [VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](http://vagrantup.com/)
+    * `gem install vagrant`
+    * `gem install vagrant-vbguest` 
 
 Puppet Sandbox has been designed for and tested with Vagrant base boxes running:
 
